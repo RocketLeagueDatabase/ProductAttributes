@@ -1,0 +1,479 @@
+{
+    "Attributes": [
+        {
+            "Class": "ProductAttribute_Archived_TA TAGame.Default__ProductAttribute_Archived_TA",
+            "Label": "Show Archived",
+            "TypeName": "None",
+            "bReplicated": false,
+            "bRequiresDynamicThumbnail": false
+        },
+        {
+            "Class": "ProductAttribute_BlueprintCost_TA TAGame.Default__ProductAttribute_BlueprintCost_TA",
+            "Cost": 0,
+            "Label": "",
+            "TypeName": "BlueprintCost",
+            "bReplicated": false,
+            "bRequiresDynamicThumbnail": false
+        },
+        {
+            "Class": "ProductAttribute_BonusCrate_TA TAGame.Default__ProductAttribute_BonusCrate_TA",
+            "Label": "",
+            "TypeName": "BonusCrate",
+            "bReplicated": false,
+            "bRequiresDynamicThumbnail": false
+        },
+        {
+            "Class": "ProductAttribute_CannotBeArchived_TA TAGame.Default__ProductAttribute_CannotBeArchived_TA",
+            "Label": "",
+            "TypeName": "None",
+            "bReplicated": false,
+            "bRequiresDynamicThumbnail": false
+        },
+        {
+            "Class": "ProductAttribute_DisplayLabelSlot_TA TAGame.Default__ProductAttribute_DisplayLabelSlot_TA",
+            "DisplayLabelSlot": "",
+            "Label": "",
+            "TypeName": "DisplayLabelSlot",
+            "bReplicated": false,
+            "bRequiresDynamicThumbnail": false
+        },
+        {
+            "Class": "ProductAttribute_EquippableSlot_TA TAGame.Default__ProductAttribute_EquippableSlot_TA",
+            "Label": "",
+            "Slot": 0,
+            "TypeName": "EquippableSlot",
+            "bReplicated": false,
+            "bRequiresDynamicThumbnail": false
+        },
+        {
+            "Class": "ProductAttribute_Expiration_TA TAGame.Default__ProductAttribute_Expiration_TA",
+            "ExpirationTime": 0,
+            "Label": "",
+            "TypeName": "ExpirationTime",
+            "bReplicated": false,
+            "bRequiresDynamicThumbnail": false
+        },
+        {
+            "Class": "ProductAttribute_Indestructible_TA TAGame.Default__ProductAttribute_Indestructible_TA",
+            "Label": "",
+            "TypeName": "Indestructible",
+            "bIndestructible": false,
+            "bReplicated": false,
+            "bRequiresDynamicThumbnail": false
+        },
+        {
+            "Class": "ProductAttribute_InheritCarSetting_TA TAGame.Default__ProductAttribute_InheritCarSetting_TA",
+            "Label": "",
+            "Parameters": [],
+            "TypeName": "None",
+            "bReplicated": false,
+            "bRequiresDynamicThumbnail": false
+        },
+        {
+            "Class": "ProductAttribute_Level_TA TAGame.Default__ProductAttribute_Level_TA",
+            "Label": "",
+            "Level": 0,
+            "TypeName": "Level",
+            "bReplicated": false,
+            "bRequiresDynamicThumbnail": false
+        },
+        {
+            "Class": "ProductAttribute_LevelSettings_TA TAGame.Default__ProductAttribute_LevelSettings_TA",
+            "Label": "",
+            "Levels": [
+                {
+                    "HardCurrency": 0,
+                    "Level": 1,
+                    "SoftCurrency": 0,
+                    "UnlockWeight": 77.5
+                },
+                {
+                    "HardCurrency": 50,
+                    "Level": 2,
+                    "SoftCurrency": 100,
+                    "UnlockWeight": 15.0
+                },
+                {
+                    "HardCurrency": 100,
+                    "Level": 3,
+                    "SoftCurrency": 200,
+                    "UnlockWeight": 5.0
+                },
+                {
+                    "HardCurrency": 250,
+                    "Level": 4,
+                    "SoftCurrency": 750,
+                    "UnlockWeight": 2.0
+                },
+                {
+                    "HardCurrency": 500,
+                    "Level": 5,
+                    "SoftCurrency": 1500,
+                    "UnlockWeight": 0.5
+                }
+            ],
+            "TypeName": "LevelData",
+            "bReplicated": false,
+            "bRequiresDynamicThumbnail": false
+        },
+        {
+            "Class": "ProductAttribute_Masterpiece_TA TAGame.Default__ProductAttribute_Masterpiece_TA",
+            "Label": "",
+            "TypeName": "Masterpiece",
+            "bReplicated": false,
+            "bRequiresDynamicThumbnail": false
+        },
+        {
+            "Class": "ProductAttribute_NoNotify_TA TAGame.Default__ProductAttribute_NoNotify_TA",
+            "Label": "",
+            "TypeName": "NoNotify",
+            "bReplicated": false,
+            "bRequiresDynamicThumbnail": false
+        },
+        {
+            "Class": "ProductAttribute_ProductLink_TA TAGame.Default__ProductAttribute_ProductLink_TA",
+            "Label": "",
+            "ProductID": 0,
+            "TypeName": "ProductLink",
+            "bReplicated": false,
+            "bRequiresDynamicThumbnail": false
+        },
+        {
+            "Class": "ProductAttribute_Rental_TA TAGame.Default__ProductAttribute_Rental_TA",
+            "Label": "",
+            "RentalLength": 0,
+            "TypeName": "RentalLength",
+            "bReplicated": false,
+            "bRequiresDynamicThumbnail": false
+        },
+        {
+            "Class": "ProductAttribute_RocketPassPremium_TA TAGame.Default__ProductAttribute_RocketPassPremium_TA",
+            "Label": "",
+            "TypeName": "None",
+            "bReplicated": false,
+            "bRequiresDynamicThumbnail": false
+        },
+        {
+            "Class": "ProductAttribute_ShopItem_TA TAGame.Default__ProductAttribute_ShopItem_TA",
+            "Label": "",
+            "ShopItemReference": "",
+            "TypeName": "None",
+            "bReplicated": false,
+            "bRequiresDynamicThumbnail": false
+        },
+        {
+            "Class": "ProductAttribute_SwapMICParameterValues_TA TAGame.Default__ProductAttribute_SwapMICParameterValues_TA",
+            "Label": "",
+            "Parameters": [],
+            "TypeName": "None",
+            "bReplicated": false,
+            "bRequiresDynamicThumbnail": false
+        },
+        {
+            "Class": "ProductAttribute_Trademark_TA TAGame.Default__ProductAttribute_Trademark_TA",
+            "Glyph": 0,
+            "Label": "",
+            "TypeName": "None",
+            "bReplicated": false,
+            "bRequiresDynamicThumbnail": false
+        },
+        {
+            "Class": "ProductAttribute_UserColorable_TA TAGame.Default__ProductAttribute_UserColorable_TA",
+            "DefaultColor": {
+                "A": 1.0,
+                "B": 0.0,
+                "G": 0.0,
+                "R": 0.0
+            },
+            "Label": "",
+            "TypeName": "None",
+            "bReplicated": false,
+            "bRequiresDynamicThumbnail": false
+        },
+        {
+            "Class": "ProductAttribute_CreatorDetails_TA TAGame.Default__ProductAttribute_CreatorDetails_TA",
+            "Label": "",
+            "TypeName": "CreatorDetails",
+            "bReplicated": false,
+            "bRequiresDynamicThumbnail": false
+        },
+        {
+            "Class": "ProductAttribute_TA TAGame.Default__ProductAttribute_TA",
+            "Label": "",
+            "TypeName": "None",
+            "bReplicated": false,
+            "bRequiresDynamicThumbnail": false
+        },
+        {
+            "AnimatedLabel": "Animated Decal",
+            "Class": "ProductAttribute_AnimatedSkinLabel_TA TAGame.Default__ProductAttribute_AnimatedSkinLabel_TA",
+            "Label": "",
+            "TypeName": "None",
+            "bReplicated": false,
+            "bRequiresDynamicThumbnail": false
+        },
+        {
+            "CachedBlueprintSeriesID": -1,
+            "Class": "ProductAttribute_Blueprint_TA TAGame.Default__ProductAttribute_Blueprint_TA",
+            "Label": "",
+            "ProductID": 0,
+            "TypeName": "Blueprint",
+            "bReplicated": false,
+            "bRequiresDynamicThumbnail": false
+        },
+        {
+            "Class": "ProductAttribute_BodyCompatibility_TA TAGame.Default__ProductAttribute_BodyCompatibility_TA",
+            "CompatibleBodies": [],
+            "Label": "",
+            "TypeName": "None",
+            "bReplicated": false,
+            "bRequiresDynamicThumbnail": false
+        },
+        {
+            "CertifiedStat": "",
+            "Class": "ProductAttribute_Certified_TA TAGame.Default__ProductAttribute_Certified_TA",
+            "Label": "Certified",
+            "StatID": 0,
+            "StatValue": 0,
+            "TypeName": "Certified",
+            "ValueKeyName": "CertifiedValue",
+            "bReplicated": false,
+            "bRequiresDynamicThumbnail": false
+        },
+        {
+            "Class": "ProductAttribute_CompatibleProducts_TA TAGame.Default__ProductAttribute_CompatibleProducts_TA",
+            "CompatibleProducts": [],
+            "Label": "",
+            "TypeName": "None",
+            "bReplicated": false,
+            "bRequiresDynamicThumbnail": false
+        },
+        {
+            "Class": "ProductAttribute_Container_TA TAGame.Default__ProductAttribute_Container_TA",
+            "Label": "",
+            "TypeName": "Container",
+            "bGiftbox": false,
+            "bReplicated": false,
+            "bRequiresDynamicThumbnail": false,
+            "bSkipRoulette": false,
+            "bUnlocked": false
+        },
+        {
+            "Class": "ProductAttribute_Currency_TA TAGame.Default__ProductAttribute_Currency_TA",
+            "CurrencyID": 0,
+            "Label": "",
+            "TypeName": "Currency",
+            "bReplicated": false,
+            "bRequiresDynamicThumbnail": false
+        },
+        {
+            "Class": "ProductAttribute_Key_TA TAGame.Default__ProductAttribute_Key_TA",
+            "Label": "",
+            "TypeName": "Key",
+            "bMagicKey": false,
+            "bReplicated": false,
+            "bRequiresDynamicThumbnail": false
+        },
+        {
+            "Class": "ProductAttribute_Licensed_TA TAGame.Default__ProductAttribute_Licensed_TA",
+            "Label": "",
+            "ReplacementProduct": "",
+            "TypeName": "IsLicensed",
+            "bReplicated": false,
+            "bRequiresDynamicThumbnail": false
+        },
+        {
+            "Class": "ProductAttribute_LicenseGroup_TA TAGame.Default__ProductAttribute_LicenseGroup_TA",
+            "Group": 0,
+            "Label": "",
+            "TypeName": "None",
+            "bReplicated": false,
+            "bRequireSameLicenseGroupOnBody": false,
+            "bRequiresDynamicThumbnail": false
+        },
+        {
+            "Class": "ProductAttribute_Painted_TA TAGame.Default__ProductAttribute_Painted_TA",
+            "Label": "Painted",
+            "PaintID": 0,
+            "TypeName": "Painted",
+            "bReplicated": true,
+            "bRequiresDynamicThumbnail": true
+        },
+        {
+            "Class": "ProductAttribute_PaintSettingsUpload_TA TAGame.Default__ProductAttribute_PaintSettingsUpload_TA",
+            "ExcludePaints": [],
+            "Label": "",
+            "ShopExclusivePaints": [],
+            "TypeName": "None",
+            "bReplicated": false,
+            "bRequiresDynamicThumbnail": false
+        },
+        {
+            "Class": "ProductAttribute_PlatformExclusive_TA TAGame.Default__ProductAttribute_PlatformExclusive_TA",
+            "InclusiveConsoles": [],
+            "Label": "",
+            "ReplacementProduct": "",
+            "TypeName": "InclusivePlatforms",
+            "bReplicated": false,
+            "bRequiresDynamicThumbnail": false
+        },
+        {
+            "Class": "ProductAttribute_PreviewOnly_TA TAGame.Default__ProductAttribute_PreviewOnly_TA",
+            "Label": "",
+            "TypeName": "PreviewOnly",
+            "bReplicated": false,
+            "bRequiresDynamicThumbnail": false
+        },
+        {
+            "Class": "ProductAttribute_Quality_TA TAGame.Default__ProductAttribute_Quality_TA",
+            "Label": "",
+            "Quality": 0,
+            "TypeName": "Quality",
+            "bReplicated": false,
+            "bRequiresDynamicThumbnail": false
+        },
+        {
+            "Class": "ProductAttribute_QualityProductDBOverride_TA TAGame.Default__ProductAttribute_QualityProductDBOverride_TA",
+            "Label": "",
+            "QualityOverride": 0,
+            "TypeName": "None",
+            "bReplicated": false,
+            "bRequiresDynamicThumbnail": false
+        },
+        {
+            "Class": "ProductAttribute_RequiresOwnedProduct_TA TAGame.Default__ProductAttribute_RequiresOwnedProduct_TA",
+            "Label": "",
+            "Product": "",
+            "TypeName": "None",
+            "bReplicated": false,
+            "bRequiresDynamicThumbnail": false
+        },
+        {
+            "Class": "ProductAttribute_Schematic_TA TAGame.Default__ProductAttribute_Schematic_TA",
+            "Label": "",
+            "TypeName": "Schematic",
+            "bReplicated": false,
+            "bRequiresDynamicThumbnail": false
+        },
+        {
+            "Class": "ProductAttribute_SortingLabel_TA TAGame.Default__ProductAttribute_SortingLabel_TA",
+            "Label": "",
+            "LocalizationKey": "",
+            "MaxReplacementSize": 5,
+            "ReplacementKey": "",
+            "ReplacementValue": "",
+            "SortingLabel": "",
+            "TypeName": "None",
+            "bReplicated": false,
+            "bRequiresDynamicThumbnail": false
+        },
+        {
+            "Class": "ProductAttribute_SpecialEdition_TA TAGame.Default__ProductAttribute_SpecialEdition_TA",
+            "EditionID": 0,
+            "Label": "Special Edition",
+            "TypeName": "SpecialEdition",
+            "bReplicated": true,
+            "bRequiresDynamicThumbnail": false
+        },
+        {
+            "Class": "ProductAttribute_SpecialEditionSettings_TA TAGame.Default__ProductAttribute_SpecialEditionSettings_TA",
+            "Editions": [],
+            "Label": "",
+            "SupportedEditions": [],
+            "TypeName": "None",
+            "bReplicated": false,
+            "bRequiresDynamicThumbnail": false
+        },
+        {
+            "Class": "ProductAttribute_TeamEdition_TA TAGame.Default__ProductAttribute_TeamEdition_TA",
+            "ID": 0,
+            "Label": "Team Edition",
+            "TypeName": "TeamEdition",
+            "bReplicated": true,
+            "bRequiresDynamicThumbnail": true
+        },
+        {
+            "Class": "ProductAttribute_TeamEditionUpload_TA TAGame.Default__ProductAttribute_TeamEditionUpload_TA",
+            "Label": "",
+            "SupportedTeamEditions": [],
+            "TypeName": "None",
+            "bReplicated": false,
+            "bRequiresDynamicThumbnail": false
+        },
+        {
+            "Class": "ProductAttribute_TeamForcedProduct_TA TAGame.Default__ProductAttribute_TeamForcedProduct_TA",
+            "Label": "",
+            "Teams": [
+                "",
+                ""
+            ],
+            "TypeName": "None",
+            "bReplicated": false,
+            "bRequiresDynamicThumbnail": false
+        },
+        {
+            "AssetName": "None",
+            "Class": "ProductAttribute_TeamOverride_TA TAGame.Default__ProductAttribute_TeamOverride_TA",
+            "Label": "",
+            "Team": 0,
+            "TypeName": "None",
+            "bReplicated": false,
+            "bRequiresDynamicThumbnail": false
+        },
+        {
+            "Class": "ProductAttribute_TeamParameterOverride_TA TAGame.Default__ProductAttribute_TeamParameterOverride_TA",
+            "Label": "",
+            "Team": 0,
+            "TypeName": "None",
+            "bReplicated": false,
+            "bRequiresDynamicThumbnail": false
+        },
+        {
+            "Class": "ProductAttribute_Tiered_TA TAGame.Default__ProductAttribute_Tiered_TA",
+            "Label": "",
+            "TierIndex": 1,
+            "TypeName": "None",
+            "bReplicated": false,
+            "bRequiresDynamicThumbnail": false
+        },
+        {
+            "Class": "ProductAttribute_TitleID_TA TAGame.Default__ProductAttribute_TitleID_TA",
+            "Label": "",
+            "TitleID": "None",
+            "TypeName": "TitleId",
+            "bReplicated": true,
+            "bRequiresDynamicThumbnail": false
+        },
+        {
+            "Class": "ProductAttribute_UnlockForcedProducts_TA TAGame.Default__ProductAttribute_UnlockForcedProducts_TA",
+            "Label": "",
+            "SlotsToUnlock": [],
+            "TypeName": "None",
+            "bReplicated": false,
+            "bRequiresDynamicThumbnail": false,
+            "bUnlockCustomColor": false,
+            "bUnlockTeamColor": false
+        },
+        {
+            "Class": "ProductAttribute_UnlockMethod_TA TAGame.Default__ProductAttribute_UnlockMethod_TA",
+            "Label": "",
+            "TypeName": "NewUnlockMethod",
+            "UnlockMethod": 0,
+            "bReplicated": false,
+            "bRequiresDynamicThumbnail": false
+        },
+        {
+            "Class": "ProductAttribute_UserColor_TA TAGame.Default__ProductAttribute_UserColor_TA",
+            "ColorValue": {
+                "A": 0,
+                "B": 0,
+                "G": 0,
+                "R": 0
+            },
+            "Label": "",
+            "TypeName": "UserColor",
+            "bReplicated": true,
+            "bRequiresDynamicThumbnail": false
+        }
+    ]
+}
