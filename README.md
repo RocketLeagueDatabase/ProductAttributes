@@ -1,3 +1,3 @@
 # ProductAttributes
 
-Every Product Attribute in Rocket League dumped into a json.
+Every product attribute in Rocket League dumped into a json.
